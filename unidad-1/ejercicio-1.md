@@ -6,4 +6,16 @@ Solicitar el nombre completo del usuario como cadena de texto. Eliminar espacios
 
 Diagrama de flujo:
 
-![Descripción de la imagen](../img/.drawio.png)
+![Descripción de la imagen](../unidad-1/img/ets-ejercicio-1.drawio.png)
+
+## Ejercicio 2: 
+Enunciado:
+
+Diagrama de flujo:
+![Descripción de la imagen](../unidad-1/img/ETS-Ejercicio-2.drawio.png)
+
+## Ejercicio 3: 
+Enunciado:
+
+Diagrama de flujo:
+![Descripción de la imagen](../unidad-1/img/ETS-Ejercicio-3.drawio.png)
