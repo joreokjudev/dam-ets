@@ -6,7 +6,7 @@ Solicitar el nombre completo del usuario como cadena de texto. Eliminar espacios
 
 Diagrama de flujo:
 
-![Descripción de la imagen](../unidad-5/img/ets-ejercicio-1.drawio.png)
+![Descripción de la imagen](img/ets-ejercicio-1.drawio.png)
 
 ## Ejercicio 2: Validador y clasificador de numeros
 Enunciado:
@@ -14,7 +14,7 @@ Leer un número entero como `String`, eliminar espacios exteriores, validar que 
 
 Diagrama de flujo:
 
-![Descripción de la imagen](../unidad-5/img/ETS-Ejercicio-2.drawio.png)
+![Descripción de la imagen](img/ETS-Ejercicio-2.drawio.png)
 
 ## Ejercicio 3: Analizador de codigos numericos
 Enunciado:
@@ -22,4 +22,4 @@ Leer un código de exactamente seis dígitos como `String`, respetando los ceros
 
 Diagrama de flujo:
 
-![Descripción de la imagen](../unidad-5/img/ETS-Ejercicio-3.drawio.png)
+![Descripción de la imagen](img/ETS-Ejercicio-3.drawio.png)
