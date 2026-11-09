@@ -8,7 +8,7 @@ Diagrama de flujo:
 
 ![Descripción de la imagen](../unidad-1/img/ets-ejercicio-1.drawio.png)
 
-## Ejercicio 2: 
+## Ejercicio 2: Validador y clasificador de numeros
 Enunciado:
 Leer un número entero como `String`, eliminar espacios exteriores, validar que representa un entero en el rango del tipo `int`, convertirlo con `Integer.parseInt()` y mostrar si es positivo, negativo o cero; par o impar; y menor, igual o mayor que 100 usando `Integer.compare()`.
 
@@ -16,7 +16,7 @@ Diagrama de flujo:
 
 ![Descripción de la imagen](../unidad-1/img/ETS-Ejercicio-2.drawio.png)
 
-## Ejercicio 3: 
+## Ejercicio 3: Analizador de codigos numericos
 Enunciado:
 Leer un código de exactamente seis dígitos como `String`, respetando los ceros iniciales. Recorrer sus caracteres, convertir cada dígito a `int` con `Integer.parseInt()`, calcular la suma total, localizar el mayor con `Integer.max()` e indicar si la suma es par o impar.
 
